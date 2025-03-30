@@ -1,0 +1,130 @@
+# Microsoft Developer Studio Generated Dependency File, included by DBExplore.mak
+
+.\_recordset.cpp : \
+	".\_recordset.h"\
+	".\fields.h"\
+	".\properties.h"\
+	
+
+.\adodc.cpp : \
+	".\_recordset.h"\
+	".\adodc.h"\
+	".\font.h"\
+	
+
+.\column.cpp : \
+	".\column.h"\
+	".\dataformatdisp.h"\
+	
+
+.\columns.cpp : \
+	".\column.h"\
+	".\columns.h"\
+	
+
+.\dataformatdisp.cpp : \
+	".\dataformatdisp.h"\
+	
+
+.\datagrid.cpp : \
+	".\columns.h"\
+	".\datagrid.h"\
+	".\font.h"\
+	".\picture.h"\
+	".\selbookmarks.h"\
+	".\splits.h"\
+	".\stddataformatsdisp.h"\
+	
+
+.\DBExplore.cpp : \
+	".\adodc.h"\
+	".\datagrid.h"\
+	".\DBExplore.h"\
+	".\DBExploreDoc.h"\
+	".\DBExploreView.h"\
+	".\GridDlg.h"\
+	".\MainFrm.h"\
+	
+
+.\DBExplore.rc : \
+	".\res\DBExplore.ico"\
+	".\res\DBExplore.rc2"\
+	".\res\DBExploreDoc.ico"\
+	".\res\Toolbar.bmp"\
+	
+
+.\DBExploreDoc.cpp : \
+	".\DBExplore.h"\
+	".\DBExploreDoc.h"\
+	
+
+.\DBExploreView.cpp : \
+	".\adodc.h"\
+	".\datagrid.h"\
+	".\DBExplore.h"\
+	".\DBExploreDoc.h"\
+	".\DBExploreView.h"\
+	".\GridDlg.h"\
+	
+
+.\field.cpp : \
+	".\field.h"\
+	".\properties.h"\
+	
+
+.\fields.cpp : \
+	".\field.h"\
+	".\fields.h"\
+	
+
+.\font.cpp : \
+	".\font.h"\
+	
+
+.\GridDlg.cpp : \
+	".\datagrid.h"\
+	".\DBExplore.h"\
+	".\GridDlg.h"\
+	
+
+.\MainFrm.cpp : \
+	".\DBExplore.h"\
+	".\MainFrm.h"\
+	
+
+.\picture.cpp : \
+	".\picture.h"\
+	
+
+.\properties.cpp : \
+	".\properties.h"\
+	".\property.h"\
+	
+
+.\property.cpp : \
+	".\property.h"\
+	
+
+.\selbookmarks.cpp : \
+	".\selbookmarks.h"\
+	
+
+.\split.cpp : \
+	".\columns.h"\
+	".\split.h"\
+	
+
+.\splits.cpp : \
+	".\split.h"\
+	".\splits.h"\
+	
+
+.\StdAfx.cpp : \
+	"..\..\..\..\..\..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	".\StdAfx.h"\
+	
+
+.\stddataformatsdisp.cpp : \
+	".\dataformatdisp.h"\
+	".\stddataformatsdisp.h"\
+	
